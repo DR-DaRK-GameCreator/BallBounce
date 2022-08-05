@@ -1596,3 +1596,296 @@ Script Stack (0 frames):
 [2022.08.05-10.37.07:426][885]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Paddle.Paddle
 [2022.08.05-10.37.07:426][885]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallGameMode.BallGameMode
 [2022.08.05-10.37.07:426][885]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.08.05-10.38.22:188][782]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.05-10.38.23:433][782]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.05-10.38.23:442][782]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.05-10.38.23:447][782]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.05-10.38.23:460][783]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.05-10.38.25:021][970]LogContentBrowser: Attempting asset rename: NewBlueprint -> Brick
+[2022.08.05-10.38.25:140][970]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.05-10.38.30:081][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.38.30:082][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.05-10.38.30:511][205]LogViewport: Scene viewport resized to 2005x981, mode Windowed.
+[2022.08.05-10.38.51:740][799]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.05-10.39.16:991][614]Cmd: MODE ROTGRID=0
+[2022.08.05-10.39.18:266][764]Cmd: MODE ROTGRID=1
+[2022.08.05-10.39.38:206][ 86]BlueprintLog: New page: Compile Brick
+[2022.08.05-10.39.38:386][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.05-10.39.43:149][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.39.43:153][601]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.39.43:153][601]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/BrickC6446A4E4DF02D2A64CADA99BD51E06B.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.39.44:438][601]AssetCheck: New page: Asset Save: Brick
+[2022.08.05-10.39.44:438][601]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.40.00:947][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.00:947][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.00:948][782]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_0
+[2022.08.05-10.40.00:948][782]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_0
+[2022.08.05-10.40.03:474][ 37]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.03:474][ 37]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.03:475][ 37]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_1
+[2022.08.05-10.40.03:475][ 37]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_1
+[2022.08.05-10.40.03:814][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.03:814][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.03:815][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_2
+[2022.08.05-10.40.03:816][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_2
+[2022.08.05-10.40.04:794][175]Cmd: DELETE
+[2022.08.05-10.40.04:794][175]Cmd: ACTOR DELETE
+[2022.08.05-10.40.04:796][175]LogEditorActor: Deleted Actor: Brick_C
+[2022.08.05-10.40.04:846][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.05-10.40.04:849][175]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.08.05-10.40.16:147][468]BlueprintLog: New page: Compile Brick
+[2022.08.05-10.40.16:226][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.05-10.40.17:153][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.40.17:158][548]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.40.17:159][548]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/BrickEC13AA504E2DFA42E21E16AD9E47E910.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.40.17:170][548]AssetCheck: New page: Asset Save: Brick
+[2022.08.05-10.40.17:170][548]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.40.19:263][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.19:263][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.19:264][756]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_3
+[2022.08.05-10.40.19:265][756]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_3
+[2022.08.05-10.40.20:172][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.20:173][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.20:174][838]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_4
+[2022.08.05-10.40.20:175][838]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_4
+[2022.08.05-10.40.21:982][ 50]Cmd: DELETE
+[2022.08.05-10.40.21:982][ 50]Cmd: ACTOR DELETE
+[2022.08.05-10.40.21:984][ 50]LogEditorActor: Deleted Actor: Brick_C
+[2022.08.05-10.40.22:032][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.05-10.40.22:035][ 50]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.08.05-10.40.37:999][880]BlueprintLog: New page: Compile Brick
+[2022.08.05-10.40.38:080][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.05-10.40.38:921][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.40.38:926][951]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.40.38:927][951]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Brick2CA232C54C604803AF184FA3B58F60A8.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.40.38:938][951]AssetCheck: New page: Asset Save: Brick
+[2022.08.05-10.40.38:938][951]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.40.40:930][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.40:930][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.40:931][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_5
+[2022.08.05-10.40.40:932][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_5
+[2022.08.05-10.40.43:717][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.43:717][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Brick.Brick_C
+[2022.08.05-10.40.43:719][462]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_6
+[2022.08.05-10.40.43:720][462]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Brick.Brick as actor: Brick_C /Game/Maps/Level1.Level1:PersistentLevel.Brick_C_6
+[2022.08.05-10.40.58:647][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.05-10.40.58:655][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.05-10.40.58:655][905]PIE: New page: PIE session: Level1 (Aug 5, 2022, 2:40:58 AM)
+[2022.08.05-10.40.58:677][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.08.05-10.40.58:679][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002765s)
+[2022.08.05-10.40.58:679][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002856s)
+[2022.08.05-10.40.58:680][905]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.05-10.40.58:680][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.05-10.40.58:680][905]LogAIModule: Creating AISystem for world Level1
+[2022.08.05-10.40.58:680][905]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.08.05-10.40.58:726][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.08.05-10.40.58:729][905]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.05-10.40.58:729][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.05-10.40.58:729][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.05-10.40.58:730][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.05-10.40.58:730][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.05-10.40.58:730][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.05-10.40.58:731][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.05-10.40.58:803][905]LogAudioMixer: Display: Using Audio Hardware Device System (4- TC-HELICON GoXLR Mini)
+[2022.08.05-10.40.58:803][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.05-10.40.58:803][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.05-10.40.58:803][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.05-10.40.58:805][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.08.05-10.40.58:805][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.08.05-10.40.58:806][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.08.05-10.40.58:806][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.08.05-10.40.58:806][905]LogInit: FAudioDevice initialized.
+[2022.08.05-10.40.58:806][905]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2022.08.05-10.40.58:819][905]LogLoad: Game class is 'BallGameMode_C'
+[2022.08.05-10.40.58:820][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.08.05-06.40.58
+[2022.08.05-10.40.58:820][905]LogWorld: Bringing up level for play took: 0.000930
+[2022.08.05-10.40.58:822][905]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.08.05-10.40.58:823][905]PIE: Server logged in
+[2022.08.05-10.40.58:823][905]PIE: Play in editor total start time 0.169 seconds.
+[2022.08.05-10.41.05:477][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.05-10.41.05:477][691]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.08.05-10.41.05:477][691]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-10.41.05:477][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-10.41.05:487][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.05-10.41.05:492][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-10.41.05:532][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.05-10.41.05:532][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.05-10.41.05:534][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.05-10.41.05:537][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.05-10.41.05:539][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.05-10.41.05:583][692]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.08.05-10.41.13:637][498]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.08.05-10.41.13:643][498]LogContentBrowser: Creating deferred item: NewInterface
+[2022.08.05-10.41.13:652][499]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2022.08.05-10.41.18:274][ 18]LogContentBrowser: Attempting asset rename: NewInterface -> BallHitInterface
+[2022.08.05-10.41.18:405][ 18]LogContentBrowser: End creating deferred item NewInterface
+[2022.08.05-10.41.21:206][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BallHitInterface.BallHitInterface
+[2022.08.05-10.41.21:206][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.05-10.42.00:352][454]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.05-10.42.33:475][346]BlueprintLog: New page: Compile BallHitInterface
+[2022.08.05-10.42.33:520][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.05-10.42.34:357][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallHitInterface" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/BallHitInterface.uasset" SILENT=true
+[2022.08.05-10.42.34:359][422]LogSavePackage: Moving output files for package: /Game/Blueprints/BallHitInterface
+[2022.08.05-10.42.34:360][422]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/BallHitInterface8CD5FD214FED4411B4E026882BB968B9.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/BallHitInterface.uasset'
+[2022.08.05-10.42.35:121][422]AssetCheck: New page: Asset Save: BallHitInterface
+[2022.08.05-10.42.35:121][422]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallHitInterface.BallHitInterface
+[2022.08.05-10.42.36:985][618]BlueprintLog: New page: Compile Brick
+[2022.08.05-10.42.37:043][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.05-10.42.37:714][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.42.37:720][670]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.42.37:720][670]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Brick2E1F43774A661284D6792ABE70DD431F.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.42.37:731][670]AssetCheck: New page: Asset Save: Brick
+[2022.08.05-10.42.37:731][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.42.39:657][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.05-10.42.39:699][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.05-10.42.39:715][863]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.08.05-10.42.39:715][863]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Level1C55AA8B4452588B2BC9ED9B55654E544.tmp' to '../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap'
+[2022.08.05-10.42.39:725][863]LogFileHelpers: No new changes to save!
+[2022.08.05-10.42.39:738][863]AssetCheck: New page: Asset Save: Level1
+[2022.08.05-10.42.39:738][863]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.08.05-10.46.35:015][979]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.05-10.47.10:642][783]LogDerivedDataCache: C:/Users/Doug/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.820 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.05-10.47.49:922][ 43]BlueprintLog: New page: Compile Ball
+[2022.08.05-10.47.50:001][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.05-10.47.51:011][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Ball.uasset" SILENT=true
+[2022.08.05-10.47.51:025][131]LogSavePackage: Moving output files for package: /Game/Blueprints/Ball
+[2022.08.05-10.47.51:026][131]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Ball9CF99F324B5264B03B6852B05826DA1D.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Ball.uasset'
+[2022.08.05-10.47.51:039][131]AssetCheck: New page: Asset Save: Ball
+[2022.08.05-10.47.51:039][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2022.08.05-10.47.54:304][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.05-10.47.54:346][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.05-10.47.54:362][471]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.08.05-10.47.54:362][471]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Level17EBD0A774B873CBA1C959FB89B30372F.tmp' to '../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap'
+[2022.08.05-10.47.54:372][471]LogFileHelpers: No new changes to save!
+[2022.08.05-10.47.54:386][471]AssetCheck: New page: Asset Save: Level1
+[2022.08.05-10.47.54:386][471]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.08.05-10.48.32:268][697]BlueprintLog: New page: Compile Brick
+[2022.08.05-10.48.32:330][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.05-10.48.33:028][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.48.33:034][756]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.48.33:035][756]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Brick41F150E14D7E9BB08B5689A94262DCC7.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.48.33:046][756]AssetCheck: New page: Asset Save: Brick
+[2022.08.05-10.48.33:046][756]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.48.35:091][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.05-10.48.35:133][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.08.05-10.48.35:149][966]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.08.05-10.48.35:149][966]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Level12FA725054877529D4B4691B9184B8A1D.tmp' to '../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap'
+[2022.08.05-10.48.35:159][966]LogFileHelpers: No new changes to save!
+[2022.08.05-10.48.35:171][966]AssetCheck: New page: Asset Save: Level1
+[2022.08.05-10.48.35:171][966]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.08.05-10.48.36:329][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.05-10.48.36:338][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.05-10.48.36:339][100]PIE: New page: PIE session: Level1 (Aug 5, 2022, 2:48:36 AM)
+[2022.08.05-10.48.36:362][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.08.05-10.48.36:365][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002698s)
+[2022.08.05-10.48.36:365][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002786s)
+[2022.08.05-10.48.36:365][100]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.05-10.48.36:365][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.05-10.48.36:365][100]LogAIModule: Creating AISystem for world Level1
+[2022.08.05-10.48.36:366][100]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2022.08.05-10.48.36:409][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.08.05-10.48.36:410][100]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.05-10.48.36:410][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.05-10.48.36:410][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.05-10.48.36:411][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.05-10.48.36:411][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.05-10.48.36:411][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.05-10.48.36:413][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.05-10.48.36:480][100]LogAudioMixer: Display: Using Audio Hardware Device System (4- TC-HELICON GoXLR Mini)
+[2022.08.05-10.48.36:480][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.05-10.48.36:480][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.05-10.48.36:480][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.05-10.48.36:481][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.08.05-10.48.36:481][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.08.05-10.48.36:482][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.08.05-10.48.36:482][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.08.05-10.48.36:482][100]LogInit: FAudioDevice initialized.
+[2022.08.05-10.48.36:482][100]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2022.08.05-10.48.36:493][100]LogLoad: Game class is 'BallGameMode_C'
+[2022.08.05-10.48.36:494][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.08.05-06.48.36
+[2022.08.05-10.48.36:494][100]LogWorld: Bringing up level for play took: 0.000942
+[2022.08.05-10.48.36:495][100]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.08.05-10.48.36:496][100]PIE: Server logged in
+[2022.08.05-10.48.36:497][100]PIE: Play in editor total start time 0.16 seconds.
+[2022.08.05-10.48.45:425][163]LogBlueprintUserMessages: [Brick_C_6] Hit By Ball
+[2022.08.05-10.48.50:842][813]LogBlueprintUserMessages: [Brick_C_6] Hit By Ball
+[2022.08.05-10.48.58:200][696]LogBlueprintUserMessages: [Brick_C_6] Hit By Ball
+[2022.08.05-10.48.59:732][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.05-10.48.59:732][876]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.08.05-10.48.59:732][876]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.08.05-10.48.59:732][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-10.48.59:741][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.05-10.48.59:746][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.05-10.48.59:788][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.05-10.48.59:788][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.05-10.48.59:790][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.05-10.48.59:795][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.05-10.48.59:840][877]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Content: 'E:/Unreal Engine/UE_5.0/Engine/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Bridge/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:518][389]SourceControl: fatal: E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'E:/Unreal Engine/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/UE5Projects/BallBounce'
+[2022.08.05-10.49.36:847][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Ball.uasset" SILENT=true
+[2022.08.05-10.49.36:861][389]LogSavePackage: Moving output files for package: /Game/Blueprints/Ball
+[2022.08.05-10.49.36:868][389]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Ball9684C91D417D3FD2050DA88BADC0429A.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Ball.uasset'
+[2022.08.05-10.49.36:869][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallHitInterface" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/BallHitInterface.uasset" SILENT=true
+[2022.08.05-10.49.36:872][389]LogSavePackage: Moving output files for package: /Game/Blueprints/BallHitInterface
+[2022.08.05-10.49.36:872][389]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/BallHitInterfaceF97647684A77C91F79F9EF973402681A.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/BallHitInterface.uasset'
+[2022.08.05-10.49.36:873][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Brick" FILE="../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset" SILENT=true
+[2022.08.05-10.49.36:879][389]LogSavePackage: Moving output files for package: /Game/Blueprints/Brick
+[2022.08.05-10.49.36:884][389]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Brick348BD6C746B49159F887209CD664BB20.tmp' to '../../../../../UE5Projects/BallBounce/Content/Blueprints/Brick.uasset'
+[2022.08.05-10.49.36:885][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.05-10.49.36:929][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.05-10.49.36:946][389]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.08.05-10.49.36:946][389]LogSavePackage: Moving '../../../../../UE5Projects/BallBounce/Saved/Level11760A137432D0E8FCE7E649099DB4B1A.tmp' to '../../../../../UE5Projects/BallBounce/Content/Maps/Level1.umap'
+[2022.08.05-10.49.36:956][389]LogFileHelpers: No new changes to save!
+[2022.08.05-10.49.36:956][389]LogFileHelpers: Saving map 'Level1' took 0.072
+[2022.08.05-10.50.07:179][389]LogSlate: Window 'Submit Files' being destroyed
+[2022.08.05-10.50.09:299][389]LogSourceControl: commit successful: [main 6862659] Added Interface and made it be callable.
+[2022.08.05-10.50.09:427][389]SourceControl: [main 6862659] Added Interface and made it be callable.
+[2022.08.05-10.50.09:427][389]SourceControl:  4 files changed, 10 insertions(+), 4 deletions(-)
+[2022.08.05-10.50.09:427][389]SourceControl:  create mode 100644 Content/Blueprints/BallHitInterface.uasset
+[2022.08.05-10.50.09:427][389]SourceControl:  create mode 100644 Content/Blueprints/Brick.uasset
+[2022.08.05-10.50.09:446][389]SourceControl: Commited [main 6862659] Added Interface and made it be callable..
+[2022.08.05-10.50.09:485][390]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.05-10.50.09:485][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2022.08.05-10.50.09:485][390]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.08.05-10.50.09:485][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Brick.Brick
+[2022.08.05-10.50.09:485][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallHitInterface.BallHitInterface
